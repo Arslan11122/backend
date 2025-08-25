@@ -1,1 +1,1 @@
-# backend of pdf converter project
+# backend of the PDF converter project
